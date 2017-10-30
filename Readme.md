@@ -1,4 +1,4 @@
-#Project 
+# Project 
 ## Intro
 -the project here is about implementing a model that does some treatment on 
 a data given in a csv format
@@ -59,10 +59,11 @@ getting the input
 -all the gained, lost, and regained are recorded in the class
 so you could plot in histogram the values in function of years
 more than that you could choose the years you want to plot 
-in the histogram
+in the histogram by calling the plot method
 
--when plot is called, it save the last histogram 
+-when plot is called, it save the last histogram  
 in stat.png
+
 ## how to test
 in the root file type cmd : jupyter notebook
 
