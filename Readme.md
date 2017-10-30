@@ -5,29 +5,46 @@ a data given in a csv format
 
 ## Linux Environement requirement
 1-python 3.5
+
 2-numpy
+
 3-jupyter
+
 4-matplotlib
+
 ## How to install
-### 1
+### 1)
 -sudo add-apt-repository ppa:deadsnakes/ppa
+
 -sudo apt-get update
+
 -sudo apt-get install python3.5
-### 2
+
+### 2)
 -sudo pip3 install numpy
-### 3
+
+### 3)
 -sudo pip3 install numpy
+
 -sudo pip3 install jupyter
+
 ### 4 
 -python -mpip install -U pip
+
 -python -mpip install -U matplotlib
+
 
 or
 
+
 -git clone https://github.com/matplotlib/matplotlib
+
 -cd matplotlib
+
 -python3 setup.py build
+
 -sudo python3 setup.py install
+
 
 ## what have been done
 -a class Sumydyne have been defined when instantiated, and the method
