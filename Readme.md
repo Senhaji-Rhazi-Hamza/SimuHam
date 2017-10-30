@@ -44,6 +44,8 @@ so you could plot in histogram the values in function of years
 more than that you could choose the years you want to plot 
 in the histogram
 
+-when plot is called, it save the last histogram 
+in stat.png
 ## how to test
 in the root file type cmd : jupyter notebook
 
@@ -53,7 +55,7 @@ the second is for class definition
 the tird is for test
 
 do not hesitate to contact me if you need more precision 
-
+hamza.senhaji-rhazi@epita.fr
 
 
 
