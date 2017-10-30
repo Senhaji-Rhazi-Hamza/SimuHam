@@ -28,7 +28,7 @@ a data given in a csv format
 
 -sudo pip3 install jupyter
 
-### 4 
+### 4)
 -python -mpip install -U pip
 
 -python -mpip install -U matplotlib
