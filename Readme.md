@@ -52,7 +52,7 @@ in the root file type cmd : jupyter notebook
 when  Simudyne.ipynb is opened click on run :
 the first cell is for imports
 the second is for class definition
-the tird is for test
+the next ones are for testing
 
 do not hesitate to contact me if you need more precision 
 hamza.senhaji-rhazi@epita.fr
